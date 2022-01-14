@@ -1,3 +1,5 @@
+                /*  Assingment#1    */
+                
 /*Q1: film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.*/
 SELECT TITLE, DESCRIPTION FROM FILM;
 
